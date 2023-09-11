@@ -1,3 +1,4 @@
+#install for below package for exceution:
 pandas
 mysql-connector-python
 streamlit
