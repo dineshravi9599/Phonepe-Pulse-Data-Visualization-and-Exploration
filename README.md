@@ -1,10 +1,10 @@
-#PhonePe Pulse Data Visualization
-#Overview
+**#PhonePe Pulse Data Visualization**
+
+**#Overview**
+
 The PhonePe Pulse Data Visualization project is a Streamlit-based web application that provides interactive data visualizations and insights into PhonePe transaction and user data. This application connects to a MySQL database, retrieves relevant data, and presents it in an easily understandable format.
 
-PhonePe Pulse Logo
-
-Features
+**#Features**
 Interactive Visualizations: Explore transaction trends, user behavior, and market dynamics with interactive charts and graphs.
 Top Charts: Generate top charts based on criteria such as year, quarter, and data type (transactions or users).
 Data Exploration: Dive deep into PhonePe data, including state-level insights and district-wise information.
